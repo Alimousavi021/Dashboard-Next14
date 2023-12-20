@@ -1,3 +1,31 @@
+Next14-Users-Dashboard
+using:
+JavaScript
+React
+Next
+html
+Tailwind.css
+ChartJs2
+
+
+live demo versel : https://dashboard-next14-eta.vercel.app/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
