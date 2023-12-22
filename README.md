@@ -8,7 +8,7 @@ Tailwind.css
 ChartJs2
 
 
-live demo versel : https://dashboard-next14-eta.vercel.app/
+live demo versel : https://dashboard-next14-eta.vercel.app/  (vpn)
 
 
 
